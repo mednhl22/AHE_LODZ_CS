@@ -1,2 +1,2 @@
-# AHE_LODZ_CS
-this is my journy during my stduies at AHE w lodz as a cs student 2024/2027
+# MOHAMMED NAHHAL - SOFTWARE ENGINEER - DATA ANALYSIS 
+HERE YOU'LL FIND ALL OF MY PROJECTS
